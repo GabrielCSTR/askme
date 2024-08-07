@@ -12,6 +12,7 @@ import (
 
 	"github.com/GabrielCSTR/askme.git/internal/api"
 	"github.com/GabrielCSTR/askme.git/internal/store/pgstore"
+
 	"github.com/jackc/pgx/v5/pgxpool"
 	"github.com/joho/godotenv"
 )
